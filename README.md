@@ -42,6 +42,10 @@ Consider me your product owner. I've decided we're going to account for mobile, 
 - Tablet: `<= 1279px`
 - Desktop: `Default`
 
+## Fonts
+
+Do your best to match the fonts, but don't worry about being perfect. You can use [Google Fonts](https://fonts.google.com/) to add new web fonts to your page. 
+
 ## Practice Problem 1: Product Preview Card Component
 
 ### Mobile Layout
