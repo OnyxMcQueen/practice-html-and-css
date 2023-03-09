@@ -24,21 +24,19 @@ Each practice folder contains the following file structure:
 
 ## Directions
 
-Use your knowledge of HTML and CSS to build a website or web component that closely resembles the images provided in each practice folder.
+In each practice folder, you'll find images of a website or web component that you'll be recreating using HTML and CSS. To ensure that your code is high-quality, here are a few guidelines:
 
-Your code should adhere to a few rules:
+1. Use semantic HTML tags to structure your code in a meaningful way. [HTML Semantics Guide](https://www.semrush.com/blog/semantic-html5-guide/)
 
-1. Use semantic HTML tags. [Semantic HTML Guide](https://www.semrush.com/blog/semantic-html5-guide/)
+1. Make use of CSS Grid to control the layout of your page. [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-1. Control your layout with the power of `CSS Grid`. [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+1. Use flexbox to help with centering and spacing content evenly. [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-1. Use `flexbox` to help with centering and spacing content evenly. [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+1. Choose whether to start with a mobile-first or desktop-first approach, and stick with it throughout the problem. This will help you create a responsive design that works well across different screen sizes.
 
-1. Choose to start mobile-first or desktop-first and stick with that concept for the entire problem.
+1. Use `@media` queries to make changes to your design as the screen size changes. 
 
-1. Use `@media` queries to make changes across multiple screen sizes.
-
-1. Keep `accessibility` in mind by making sure images have alt tags. 
+1. Make sure to add alt tags to all of your images so that they're accessible to everyone.
 
 ## Responsiveness
 
