@@ -55,43 +55,45 @@ Consider me your product owner. I've decided we're going to account for mobile, 
 ## Practice Problem 1: Product Preview Card Component
 
 ### Mobile Layout
-![Mobile View](./practice-layout-1/images/product-preview-card-component-mobile.jpeg)
+![Mobile View](./practice-layout-1/designs/product-preview-card-component-mobile.jpeg)
 
 ### Desktop Layout
-![Desktop View](./practice-layout-1/images/product-preview-card-component-desktop.jpeg)
+![Desktop View](./practice-layout-1/designs/product-preview-card-component-desktop.jpeg)
 
 ## Practice Problem 2: Three Column Card Component
 
 ### Mobile Layout
-![Mobile View](./practice-layout-2/images/3-col-card-component-mobile.jpeg)
+![Mobile View](./practice-layout-2/designs/3-col-card-component-mobile.jpeg)
 
 ### Desktop Layout
-![Desktop View](./practice-layout-2/images/3-col-card-component-desktop.jpeg)
+![Desktop View](./practice-layout-2/designs/3-col-card-component-desktop.jpeg)
 
 ## Practice Problem 3: Single Price Component
 
 ### Mobile Layout
-![Mobile View](./practice-layout-3/images/single-price-component-mobile.jpeg)
+![Mobile View](./practice-layout-3/designs/single-price-component-mobile.jpeg)
 
 ### Desktop Layout
-![Desktop View](./practice-layout-3/images/single-price-component-desktop.jpeg)
+![Desktop View](./practice-layout-3/designs/single-price-component-desktop.jpeg)
 
 ## Practice Problem 4: Testimonials Grid
 
 ### Mobile Layout
-![Mobile View](./practice-layout-4/images/testimonials-grid-mobile.jpeg)
+![Mobile View](./practice-layout-4/designs/testimonials-grid-mobile.jpeg)
 
 ### Desktop Layout
-![Desktop View](./practice-layout-4/images/testimonials-grid-desktop.jpeg)
+![Desktop View](./practice-layout-4/designs/testimonials-grid-desktop.jpeg)
 
 ## Practice Problem 5: News Site Homepage
 
 ### Mobile Layout
-![Mobile View](./practice-layout-5/images/news-homepage-mobile.jpeg)
+![Mobile View](./practice-layout-5/designs/news-homepage-mobile.jpeg)
 
 ### Desktop Layout
-![Desktop View](./practice-layout-5/images/news-homepage-desktop.jpeg)
+![Desktop View](./practice-layout-5/designs/news-homepage-desktop.jpeg)
 
-## Done!
+## Attribution & More Practice!
 
-Finished them all? [Checkout more frontend challenges on frontendmentor.io](https://www.frontendmentor.io)
+[These practice problems were found on frontendmentor.io](https://www.frontendmentor.io)! 
+
+Get in even more practice by signing up for an account and taking on additional challenges 💪
