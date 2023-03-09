@@ -1,6 +1,8 @@
 # Let's Practice Using HTML & CSS
 
-This repo includes four folders aplty named `practice-layout-#` - each including an `index.html` and `styles.css` file for you to use, as well as images of the website or web component you're trying to create. 
+Hey there! We've got a super cool repository that's gonna help you improve your HTML and CSS skills in a jiffy! This repository is packed with images of websites and web components that you can recreate using HTML and CSS. We've even thrown in an `index.html` and `styles.css` file to get you started! 
+
+This hands-on practice will give you the confidence to take on any web development challenge that comes your way. So, what are you waiting for? Let's get coding and level up your web development skills!
 
 ## Let's Get Started
 
