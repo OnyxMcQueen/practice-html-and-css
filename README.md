@@ -14,7 +14,7 @@ This hands-on practice will give you the confidence to take on any web developme
 
 ## Breaking Down Your Assets
 
-Each practice folder contains the following folder and file structure:
+Each practice folder contains the following file structure:
 
 - `designs/` - These are images of the site or component you're trying to replicate. Some problems include active states as well.
 - `images/` - Any images you'll need for the layouts are found in here. 
