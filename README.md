@@ -10,6 +10,16 @@ This repo includes four folders aplty named `practice-layout-#` - each including
 
 1. `cd` into the newly cloned folder then open with Visual Studio Code with `code .`
 
+## Breaking Down Your Assets
+
+Each practice folder contains the following folder and file structure:
+
+- `designs/` - These are images of the site or component you're trying to replicate. Some problems include active states as well.
+- `images/` - Any images you'll need for the layouts are found in here. 
+- `style-guide.md` - The style guide provides color codes, font links, and anything else you may need to help match the layout.
+- `index.html` - All of your HTML should be contained in this file.
+- `styles.css` - All of your CSS should be contained in this file. 
+
 ## Directions
 
 Use your knowledge of HTML and CSS to build a website or web component that closely resembles the images provided in each practice folder.
@@ -41,10 +51,6 @@ Consider me your product owner. I've decided we're going to account for mobile, 
 - Mobile: `<= 767px`
 - Tablet: `<= 1279px`
 - Desktop: `Default`
-
-## Fonts
-
-Do your best to match the fonts, but don't worry about being perfect. You can use [Google Fonts](https://fonts.google.com/) to add new web fonts to your page. 
 
 ## Practice Problem 1: Product Preview Card Component
 
