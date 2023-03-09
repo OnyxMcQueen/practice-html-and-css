@@ -85,3 +85,7 @@ Do your best to match the fonts, but don't worry about being perfect. You can us
 
 ### Desktop Layout
 ![Desktop View](./practice-layout-5/images/news-homepage-desktop.jpeg)
+
+## Done!
+
+Finished them all? [Checkout more frontend challenges on frontendmentor.io](https://www.frontendmentor.io)
