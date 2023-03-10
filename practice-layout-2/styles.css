@@ -1,0 +1,55 @@
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    padding: 10px 40px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    padding-left: 40px;
+}
+
+background, h1, .button {
+    color: hsl(0, 0%, 95%);
+}
+
+.content-1 {
+    background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.content-2 {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.content-3 {
+    background-color: hsl(179, 100%, 13%);
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+img {
+    padding: 40px 0 0 40px;
+}
+
+.button {
+    padding: 10px 25px;
+    border-radius: 25px;
+    color: black;
+    border-color: hsl(0, 0%, 95%);
+    border-style: none;
+    font-family: 'Lexend Deca', sans-serif;
+    margin: 30px;
+}
+
+.main-content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 50%;
+    margin: auto;
+    margin-top: 13%;
+}
