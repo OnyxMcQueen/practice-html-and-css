@@ -1,0 +1,78 @@
+body {
+    background-color: hsl(204, 43%, 93%);
+}
+
+p {
+    font-size: 16px;
+}
+
+.main-content {
+    font-family: 'Karla', sans-serif;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 50%;
+    margin: 10% auto;
+}
+
+.content-1 {
+    background-color: white;
+    grid-column: span 2;
+    padding: 20px 25px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.content-1 h2 {
+    color: hsl(179, 62%, 43%);
+}
+
+.content-1 h3 {
+    color: hsl(71, 73%, 54%);
+}
+
+.content-2 {
+background-color: hsl(179, 61%, 39%);
+color: white;
+padding: 20px 25px;
+border-bottom-left-radius: 10px;
+}
+
+.content-2 h3 {
+    color: hsl(204, 43%, 93%);
+}
+
+.content-3 {
+background-color: hsl(179, 42%, 50%);
+
+
+border-bottom-right-radius: 10px;
+}
+
+.content-3 h3 {
+    color: hsl(204, 43%, 93%);
+    padding-left: 40px;
+}
+
+ul li {
+    color: hsl(204, 43%, 93%);
+    list-style-type: none;
+    padding: 2px;
+}
+
+.button {
+    color: white;
+    background-color: hsl(71, 73%, 54%);
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px 100px;
+}
+
+#dollar-amount {
+    font-size: xx-large;
+    display: inline;
+    margin-right: 5px;
+}
+
+#special-case {
+    color: hsl(215, 15%, 85%);
+}
